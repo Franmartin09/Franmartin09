@@ -52,6 +52,11 @@
 <!-- GitHub section: END -->
 
 <!-- ![Fran's github stats](https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&theme=gotham&hide=contribs&count_private=true) -->
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
+
+<strong>Stackoverflow stats</strong>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
