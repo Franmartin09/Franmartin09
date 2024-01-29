@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=33FFD4&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -27,7 +27,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Fran+Martin+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Fran+Martin+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg) -->
 
 <a href="https://www.linkedin.com/in/fran-martin-ag/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fran's LinkedIn"/></a>
 <a href="https://instagram.com/franmartin_9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
