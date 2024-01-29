@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Fran+Martin+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/andreu-orensanz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fran's LinkedIn"/></a>
-<a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<!--<a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<a href="https://instagram.com/franmartin_9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ![Fran's github stats](https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 
