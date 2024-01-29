@@ -4,6 +4,13 @@
 <a href="https://instagram.com/franmartin_9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--<a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>-->
 
+ <!-- GitHub Stats section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+
+<!-- GitHub section: END -->
+
 ![Fran's github stats](https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&theme=gotham&hide=contribs&count_private=true)
 
 ![visitors](https://pageview.vercel.app/?github_user=Franmartin09)
