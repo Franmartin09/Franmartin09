@@ -28,6 +28,9 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
+ 
+
+
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Fran+Martin+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg) -->
 ![visitors](https://pageview.vercel.app/?github_user=Franmartin09)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
@@ -35,6 +38,7 @@
 <a href="https://instagram.com/franmartin_9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--<a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>-->
 
+<img align="center" alt="GIF" src="https://github.com/Franmartin09/Franmartin09/blob/main/code.gif?raw=true" width="500" height="auto" />
 
 ##  My toolbox 
 
@@ -43,38 +47,33 @@
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
 </p>
 
-  <img align="center" alt="GIF" src="https://github.com/Franmartin09/Franmartin09/blob/main/code.gif?raw=true" width="500" height="auto" />
 
  <!-- GitHub Stats section -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
+  <!-- ![Fran's github stats](https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&theme=gotham&hide=contribs&count_private=true) -->
 
-<!-- GitHub section: END -->
+  <!-- STATS 1 -->
+  <p align="center">
+    <a href="https://stats.hyochan.dev/en/stats/Franmartin09"><img src="https://stats.hyochan.dev/api/github-stats?login=Franmartin09" width="600" /></a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franmartin09&theme=gotham" alt="Profile">
+  </p>
+ <!-- STATS 2 -->
+  <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Franmartin09&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Franmartin09&theme=gotham&hide_border=true&background=FFFFFF00">
+    <br>
+  </p>
 
-<!-- ![Fran's github stats](https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&theme=gotham&hide=contribs&count_private=true) -->
-<strong>🏆 Dooboo lab's github stats</strong>
+<!-- GitHub Stats section: END -->
 
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
-
-<strong>Stackoverflow stats</strong>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franmartin09&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franmartin09&theme=github_dark)
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Franmartin09&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Franmartin09&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Franmartin09&theme=gotham&hide_border=true&background=FFFFFF00">
-  <br>
-</p>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<!-- WAVE section -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  </p>
+<!-- WAVE section: END -->
 
 <!--
 **Franmartin09/Franmartin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
