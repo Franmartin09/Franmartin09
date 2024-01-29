@@ -18,8 +18,6 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Franmartin09&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Franmartin09&theme=gotham&hide_border=true&background=FFFFFF00">
   <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 ![visitors](https://pageview.vercel.app/?github_user=Franmartin09)
