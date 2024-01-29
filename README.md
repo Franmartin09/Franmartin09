@@ -11,8 +11,8 @@
 </p>
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+  <img align="right" alt="GIF" src="https://github.com/Franmartin09/Franmartin09/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
