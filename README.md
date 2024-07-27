@@ -6,7 +6,7 @@
 <!-- Title -->
 <p align="center">
   <a href="https://github.com/Franmartin09">
-    <img src="https://github.com/Franmartin09/Franmartin09/blob/main/nombre.png?raw=true" alt="Fran Martín" width=250px height=auto;/>
+    <img src="https://github.com/Franmartin09/Franmartin09/blob/main/images/nombre.png?raw=true" alt="Fran Martín" width=250px height=auto;/>
   </a>
 </p>
 
@@ -20,16 +20,16 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="mailto:franmartinaguilar@gmail.com"><img width="32px" alt="Email" title="Youtube" src="https://github.com/Franmartin09/Franmartin09/blob/main/gmail.png?raw=true"/></a>
+  <a href="mailto:franmartinaguilar@gmail.com"><img width="32px" alt="Email" title="Youtube" src="https://github.com/Franmartin09/Franmartin09/blob/main/images/gmail.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/fran-martin-ag/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Franmartin09/Franmartin09/blob/main/in.png?raw=true"/></a>
+  <a href="https://www.linkedin.com/in/fran-martin-ag/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Franmartin09/Franmartin09/blob/main/images/in.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/franmartin_9"><img width="32px" alt="Instagram" title="Twitter" src="https://github.com/Franmartin09/Franmartin09/blob/main/insta.png?raw=true"/></a>
+  <a href="https://instagram.com/franmartin_9"><img width="32px" alt="Instagram" title="Twitter" src="https://github.com/Franmartin09/Franmartin09/blob/main/images/insta.png?raw=true"/></a>
 </p>
 
 <!-- GIF Coding -->
 <p align="center">
-  <img align="center" alt="GIF" src="https://github.com/Franmartin09/Franmartin09/blob/main/code.gif?raw=true" width="500" height="auto" />
+  <img align="center" alt="GIF" src="https://github.com/Franmartin09/Franmartin09/blob/main/images/code.gif?raw=true" width="500" height="auto" />
 </p>
 
 
