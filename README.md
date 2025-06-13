@@ -13,7 +13,7 @@
 <!-- Subtitle -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20and%20Full-stack%20Web%20App%20Developer;Databases,%20Machine%20Learning%20and%20Data%20Analysis;+3%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=33FFD4&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20and%20Machine%20Learning%20Developer;Databases,%20MLOps,%20LLM%20and%20Computer%20Vision;+3%20years%20of%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=33FFD4&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
